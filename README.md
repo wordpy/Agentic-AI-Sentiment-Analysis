@@ -16,11 +16,14 @@ Copyright:   (c) Victor Tong 2025
 
 Licence:     Whatever license of spoon_ai
 
+
+python ./sentiment_agent.py
+
 Ask: recent sentiment about Nvidia? 
 
 📋 Answer: The sentiment result for Nvidia is neutral, with recent news providing a balanced mix of factual updates, product enhancements, and some criticism, but no strong positive or negative tone.
 
-Authors comment:  Nvidia had fallen after blowout earnings report. If we include 500 past news articles, Nvidia will be positive or bullish!
+Authors comment:  Nvidia had fallen after blowout earnings report. If we include 500 past news articles or articles from the past year, Nvidia will be very positive or bullish!
 
 Ask: recent sentiment about Nuclear Power?
 
